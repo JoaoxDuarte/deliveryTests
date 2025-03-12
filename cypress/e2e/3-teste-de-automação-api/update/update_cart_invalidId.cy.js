@@ -3,7 +3,7 @@ describe('API - Atualizar Produto no Carrinho com Id Inválido', () => {
     it('Deve aceitar a atualização do produto mesmo com um Id inválido', () => {
       /**
        * 
-       * Cenário: Validar que a API aceita a atualização de um produto mesmo que o ID não exista no carrinho.
+       * Cenário: Validar se API aceita o "update" de um produto mesmo que o Id não exista no carrinho, junto com a alta qtd.
        * 
        * Passos Realizados:
        * - Enviada uma requisição PUT para atualizar um produto com id inexistente.
