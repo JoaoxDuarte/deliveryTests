@@ -1,6 +1,6 @@
 # Testes de Automação - QA
 
-Este repositório contém os testes automatizados para a plataforma de delivery, abrangendo testes de UI e API. Os arquivos do case estão em PDF fora da pasta Cypress.
+Este repositório contém os testes automatizados para a plataforma de delivery, abrangendo testes de UI e API. Os detalhes dos fluxos estão no arquivo **Case.pdf**, fora da pasta Cypress.
 
 ---
 
@@ -22,7 +22,7 @@ Para rodar o projeto, certifique-se de ter os seguintes requisitos instalados:
 
 - **Node.js**: [Baixe aqui](https://nodejs.org)
 - **npm**: Normalmente instalado junto com o Node.js
-- **Yarn** (opcional): [Baixe aqui](https://yarnpkg.com/)
+- **Yarn** (opcional): [Documentação](https://classic.yarnpkg.com/en/docs/getting-started)
 
 ---
 
@@ -58,7 +58,7 @@ OBS: O projeto pode ser baixado manualmente. (Opcional)
 ```bash
 npm list --depth=0
 ```
-Com isso, terá todas as bibliotecas necessárias para executar este projeto.
+Com isso, terá todo o necessário para executar este projeto.
 
 ---
 
