@@ -105,7 +105,7 @@ Os testes de UI estão na pasta:
 ```
 cypress/e2e/2-teste-de-automacao-ui
 ```
-ATENÇÃO: 
+**ATENÇÃO** sobre os seguntes testes dentro das pastas: 
 - **with-location**: Esses testes, precisam rodar com a localização do navegador ativada.
 
 ![loca_c](https://github.com/user-attachments/assets/46150912-525a-4786-ad49-56ab455cba12)
